@@ -1,0 +1,4 @@
+1.  npm config set prefix '~/.npm-global'
+2.  export PATH=~/.npm-global/bin:$PATH
+3.  node-sass
+4.  npm start

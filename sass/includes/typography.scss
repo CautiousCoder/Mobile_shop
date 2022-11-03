@@ -1,0 +1,52 @@
+/*  Typography style    */
+a {
+    text-decoration: none;
+}
+.font-baloo {
+    font-family: $font-baloo;
+}
+.font-rale {
+    font-family: $font-raleway;
+}
+.font-rubix {
+    font-family: $font-rubix;
+}
+.primary-color {
+    color: $primary-color;
+}
+.color-primary-bg {
+    background: $primary-color;
+}
+.second-color {
+    color: $second-color;
+}
+.color-second-bg {
+    background: $second-color;
+}
+.text-color {
+    color: $text-color;
+}
+.color-yellow-bg {
+    background: $yellow-color;
+}
+.red-color {
+    color: $red-color;
+}
+.color-red-bg {
+    background: $red-color;
+}
+.font-size-12 {
+    font-size: 12px;
+}
+.font-size-14 {
+    font-size: 14px;
+}
+.font-size-16 {
+    font-size: 16px;
+}
+.font-size-20 {
+    font-size: 20px;
+}
+.font-size-36 {
+    font-size: 36px;
+}
