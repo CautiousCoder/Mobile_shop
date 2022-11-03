@@ -62,7 +62,7 @@
                     $msg = "Already Exists Product.";
                 }
             } else {
-                $msg = "Already Exists this Product.";
+                $msg = "Already Exists Product.";
             }
         }
         // if ($msg == '') {
