@@ -26,7 +26,7 @@
         </a>
       </li>
       <li>
-        <a href="#" class="nav-link text-white">
+        <a href="<?php echo "product.php"; ?>" class="nav-link text-white">
           <div class="bi d-block mx-auto text-center mb-0" width="24" height="24"><i class="fa-solid fa-grid-2 font-size-36"></i></div>
           Products
         </a>

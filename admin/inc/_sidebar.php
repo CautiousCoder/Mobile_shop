@@ -45,27 +45,27 @@
 
                 <li class="menu-title">Icons</li>
                 <li class="menu-item-has-children dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-tasks"></i>Products</a>
+                    <a href="pages/post_index.php" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-tasks"></i>Products</a>
                     <ul class="sub-menu children dropdown-menu">
-                        <li><i class="menu-icon fa fa-fort-awesome"></i><a href="font-fontawesome.html">All Post</a></li>
-                        <li><i class="menu-icon ti-themify-logo"></i><a href="font-themify.html">Add New</a></li>
+                        <li><i class="menu-icon fa fa-fort-awesome"></i><a href="pages/post_index.php">All Post</a></li>
+                        <li><i class="menu-icon ti-themify-logo"></i><a href="pages/post_create.php">Add New</a></li>
                     </ul>
                 </li>
                 <li>
                 </li>
                 <li class="menu-item-has-children dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-bar-chart"></i>Category</a>
+                    <a href="pages/category_index.php" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-bar-chart"></i>Category</a>
                     <ul class="sub-menu children dropdown-menu">
-                        <li><i class="menu-icon fa fa-line-chart"></i><a href="charts-chartjs.html">All Category</a></li>
-                        <li><i class="menu-icon fa fa-area-chart"></i><a href="charts-flot.html">Add New</a></li>
+                        <li><i class="menu-icon fa fa-line-chart"></i><a href="pages/category_index.php">All Category</a></li>
+                        <li><i class="menu-icon fa fa-area-chart"></i><a href="pages/category_create.php">Add New</a></li>
                     </ul>
                 </li>
 
                 <li class="menu-item-has-children dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-area-chart"></i>Tags</a>
+                    <a href="pages/tag_index.php" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-area-chart"></i>Tags</a>
                     <ul class="sub-menu children dropdown-menu">
-                        <li><i class="menu-icon fa fa-map-o"></i><a href="maps-gmap.html">All Tags</a></li>
-                        <li><i class="menu-icon fa fa-street-view"></i><a href="maps-vector.html">Add New</a></li>
+                        <li><i class="menu-icon fa fa-map-o"></i><a href="pages/tag_index.php">All Tags</a></li>
+                        <li><i class="menu-icon fa fa-street-view"></i><a href="pages/tag_create.php">Add New</a></li>
                     </ul>
                 </li>
                 <li class="menu-title">Personal Information</li><!-- /.menu-title -->

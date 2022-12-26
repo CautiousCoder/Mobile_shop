@@ -23,6 +23,12 @@
   box-shadow: 1px 1px 7px;
 }
 
+.b-border {
+  padding: 17px 8px;
+  box-shadow: 1px 1px 7px !important;
+  background-color: #eeffef;
+}
+
 .product {
   max-height: 420px;
   max-width: 100%;
